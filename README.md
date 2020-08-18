@@ -2,7 +2,7 @@
 A university educational project
 
 
-This project is divided in two sections: **Selenium Team** and **Tweepy Team**. The work of any team can be found in the directory with the same name. If you want to collaborate in the development please follow this steps according to the situation.
+This project is divided in two sections: **Selenium Team** and **Tweepy Team**. You can check the documentation of each library here: [Selenium](https://selenium-python.readthedocs.io/) and [Tweepy](http://docs.tweepy.org/en/latest/index.html). The work of any team can be found in the directory with the same name. If you want to collaborate in the development please follow this steps according to the situation.
 
 ## Creating a Twitter API Key (for the Tweepy Team)
 1. Check out this [tutorial](https://rapidapi.com/blog/how-to-use-the-twitter-api/)
